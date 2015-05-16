@@ -1,6 +1,6 @@
 {
   "name": "bespoke-theme-mozilla-sandstone",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "./dist/bespoke-theme-mozilla-sandstone.js",
   "ignore": [
     "**/.*"
